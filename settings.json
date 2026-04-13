@@ -9,7 +9,7 @@
     "ip": "eeeeiiiimlml3.aternos.me",
     "port": 35962,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
